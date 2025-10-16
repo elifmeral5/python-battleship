@@ -1,9 +1,6 @@
 """
 File: battleship.py
 Author: Elif Meral
-Date: 04/17/2024
-Section: 24
-E-mail: elifm1@umbc.edu
 Description:
         Two users input where they want to place their ships and plays battleships until one looses.
 """
